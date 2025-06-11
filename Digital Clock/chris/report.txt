@@ -1,0 +1,14 @@
+methods: DigitalClock, updateClock, main
+main method->DigitalClock class-> constructor DigitalClock->updateClock method
+=================================
+digital clock application in Java using Swing
+1. creates a window (JFrame, the main container for the clock)
+2. displays the current time (JlLabel, inside the window shows the current time)
+3. timer updates the label 
+4. user sees a live digital clock (from the user's perspective, always-updating digital clock on their screen)
+
+JFrame -> Main window
+JLabel -> time as text
+Timer -> runs code repeatedly every second
+SimpleDateFormat -> formats current time into a readable string
+Date -> gets the system's current time

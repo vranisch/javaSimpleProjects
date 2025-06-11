@@ -1,0 +1,3 @@
+by chris
+
+a project idea is to create new riddles from an LLM
